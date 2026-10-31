@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "Intelligent learning platform designed for Nigerian secondary-school and university students, powered by Google Gemma 4 E2B Instruct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
